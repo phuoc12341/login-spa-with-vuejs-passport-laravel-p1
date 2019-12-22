@@ -1,4 +1,4 @@
-# login-spa-with-vuejs-passport-laravel-p1
+# Login SPA with Vuejs + Passport Laravel - P1
 
 Chào các bạn hôm nay mình sẽ giới thiệu với các bạn cách làm chức năng Login theo hướng SPA sử dụng **Vuejs + Passport** của Laravel.
 Luồng xử lý bài toán của mình như sau:
